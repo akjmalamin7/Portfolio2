@@ -1,18 +1,21 @@
-.banner_section{
-    /* background-color: rgba(70, 112, 145, .02) ; */
+.banner_section {
+    background-color: rgba(70, 112, 145, .04);
 }
 .non_animation_heading {
     color: rgba(30,39,46,1);
     text-transform: uppercase;
-    background-color: rgba(70, 112, 145, .02) ;
+    background-color: rgba(70, 112, 145, .02);
     display: inline-block;
+    font-size: 55px;
+    font-weight: bold;
 }
 .animation_text {
     color: var( --pirmary_color);
-    font-size: 30px;
-    
+    font-size: 35px;
     display: inline-block;
+    font-weight: bold;
 }
-.banner_description{
-    color:rgba(70, 112, 145, .8);
+.banner_description {
+    color: rgba(70, 112, 145, 1);
+    font-size: 15px;
 }

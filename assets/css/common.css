@@ -10,7 +10,7 @@
     box-sizing: border-box;
 }
 body{
-    color:rgba(70, 112, 145,.1)
+    color:rgba(70, 112, 145,1)
 }
 .navbar-toggler:focus {
     text-decoration: none;
