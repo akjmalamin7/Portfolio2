@@ -1,0 +1,18 @@
+.banner_section{
+    /* background-color: rgba(70, 112, 145, .02) ; */
+}
+.non_animation_heading {
+    color: rgba(30,39,46,1);
+    text-transform: uppercase;
+    background-color: rgba(70, 112, 145, .02) ;
+    display: inline-block;
+}
+.animation_text {
+    color: var( --pirmary_color);
+    font-size: 30px;
+    
+    display: inline-block;
+}
+.banner_description{
+    color:rgba(70, 112, 145, .8);
+}
